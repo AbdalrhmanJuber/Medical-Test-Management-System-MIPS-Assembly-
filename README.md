@@ -14,6 +14,6 @@ This project is a Medical Test Management System implemented in MIPS Assembly. T
 **Update Existing Test Result**: Modify stored test data.
 **Delete a Test**: Remove a specific test record.
 **Error Handling & Data Validation**:
-- Handle invalid file names.
-- Detect missing patient records.
-- Ensure correct data formats for input.
+  - Handle invalid file names.
+  - Detect missing patient records.
+  - Ensure correct data formats for input.

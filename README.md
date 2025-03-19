@@ -18,12 +18,12 @@ This project is a Medical Test Management System implemented in MIPS Assembly. T
   - Detect missing patient records.
   - Ensure correct data formats for input.
  
-##  📂 File Structure
-📦 MedicalTestSystem
-├── 📜 Project_1.asm   # MIPS assembly source code
-├── 📜 SAMPLES.pdf     # Sample outputs of system functionalities
-├── 📜 First_Project_Description.pdf  # Project specifications and requirements
-└── 📜 README.md       # Project documentation
+##  📂 File Structure  
+📦 MedicalTestSystem  
+├── 📜 Project_1.asm   # MIPS assembly source code  
+├── 📜 SAMPLES.pdf     # Sample outputs of system functionalities  
+├── 📜 First_Project_Description.pdf  # Project specifications and requirements  
+└── 📜 README.md       # Project documentation  
 
 
 

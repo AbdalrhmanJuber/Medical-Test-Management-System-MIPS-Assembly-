@@ -17,3 +17,36 @@ This project is a Medical Test Management System implemented in MIPS Assembly. T
   - Handle invalid file names.
   - Detect missing patient records.
   - Ensure correct data formats for input.
+ 
+##  📂 File Structure
+📦 MedicalTestSystem
+├── 📜 Project_1.asm   # MIPS assembly source code
+├── 📜 SAMPLES.pdf     # Sample outputs of system functionalities
+├── 📜 First_Project_Description.pdf  # Project specifications and requirements
+└── 📜 README.md       # Project documentation
+
+
+
+## 🛠️ Installation & Usage
+1️⃣ Requirements
+  - MARS (MIPS Assembler and Runtime Simulator) Download MARS
+  - Basic knowledge of MIPS Assembly.
+2️⃣ Running the Program
+1. Open Project_1.asm in MARS.
+2. Assemble the code (F3).
+3. Run the program (F5).
+4. Follow the on-screen menu prompts.
+
+## 📊 Sample Usage
+The system interacts with a text-based menu, allowing users to choose from different functionalities. Example:
+
+Welcome to the Medical Test Management System
+1. Add new test
+2. Search test by Patient ID
+3. Retrieve abnormal tests
+4. Calculate average test values
+5. Update test result
+6. Delete a test
+7. Exit
+Choose an option:
+For detailed output examples, refer to SAMPLES.pdf.
